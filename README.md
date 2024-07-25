@@ -2,7 +2,7 @@
 
 Dexter is a document database. Given a document, Dexter will automatically classify it into one of the given categories and store it in the database. You can upload multiple files at once and click "Submit", and Dexter will do the rest.
 
-# Workflow
+## Workflow
 <p align = "center"><img src = "https://github.com/user-attachments/assets/6bece8d4-64a9-42fe-a3ac-c209e5c0608e"></p>
 
 1. Document Upload: The user uploads single or multiple documents on the Streamlit app
