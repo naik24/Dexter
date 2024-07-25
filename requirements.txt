@@ -1,0 +1,7 @@
+tf2onnx
+fireworks-ai
+pdf2image
+pillow
+streamlit
+psycopg2-binary
+sqlalchemy
